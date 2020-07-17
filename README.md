@@ -15,8 +15,10 @@
 <img width="400" alt="3" src="https://user-images.githubusercontent.com/66242400/87753753-42a72800-c83e-11ea-8502-2f403c2f273c.png">
 <br><br>
 #### (4) 코드 분석을 위해 요구되는 것들, 가령 텐서의 크기, 등을 기입해두었다.<br><br>
-<img width="400" alt="4" src="https://user-images.githubusercontent.com/66242400/87753756-433fbe80-c83e-11ea-9d8e-4f77c1034a32.png"><br><br><br>
+<img width="400" alt="4" src="https://user-images.githubusercontent.com/66242400/87753756-433fbe80-c83e-11ea-9d8e-4f77c1034a32.png"><br><br>
 
 ## **References**<br><br>
 #### https://cs231n.github.io/ <br>
 #### https://www.youtube.com/results?search_query=cs231n
+
+<br><br>
