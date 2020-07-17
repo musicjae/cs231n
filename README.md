@@ -7,7 +7,7 @@
 #### &nbsp;&nbsp; 게시된 모든 자료는 학습용으로 사용하기에 적합하다.<br><br>
 ## **Features/ screenshots**<br><br>
 
-#### (1)가능한 한 챕터 명과 각 섹션마다 제공되는 설명을 번역하였다.<br><br>
+#### (1)가능한 한 챕터명과 각 섹션마다 제공되는 설명을 번역하였다.<br><br>
 <img width="400" alt="2" src="https://user-images.githubusercontent.com/66242400/87753751-420e9180-c83e-11ea-9bb1-e32efc69b616.png"><br><br>
 #### (2) 불분명하게 이해되는 수식을 정리하였다.<br><br>
 <img width="400" alt="1" src="https://user-images.githubusercontent.com/66242400/87753744-3cb14700-c83e-11ea-823d-acc646c21924.png"><br><br>
