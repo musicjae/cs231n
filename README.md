@@ -7,13 +7,16 @@
 #### &nbsp;&nbsp; 게시된 모든 자료는 학습용으로 사용하기에 적합하다.<br><br>
 ### **Features/ screenshots**<br><br>
 
-&nbsp;&nbsp;(1)가능한 한 챕터 명과 각 섹션마다 제공되는 설명을 번역하였다.
+(1)가능한 한 챕터 명과 각 섹션마다 제공되는 설명을 번역하였다.<br><br>
 <img width="400" alt="2" src="https://user-images.githubusercontent.com/66242400/87753751-420e9180-c83e-11ea-9bb1-e32efc69b616.png"><br><br>
-&nbsp;&nbsp;(2) 불분명하게 이해되는 수식을 정리하였다.
+(2) 불분명하게 이해되는 수식을 정리하였다.<br><br>
 <img width="400" alt="1" src="https://user-images.githubusercontent.com/66242400/87753744-3cb14700-c83e-11ea-823d-acc646c21924.png"><br><br>
-
-&nbsp;&nbsp;(3) 과제에서 제공되는 소개글을 가능한 한 번역한 뒤 요약해두었다.
+(3) 과제에서 제공되는 소개글을 가능한 한 번역한 뒤 요약해두었다.<br><br>
 <img width="400" alt="3" src="https://user-images.githubusercontent.com/66242400/87753753-42a72800-c83e-11ea-8502-2f403c2f273c.png">
 <br><br>
-&nbsp;&nbsp;(4) 코드 분석을 위해 요구되는 것들, 가령 텐서의 크기, 등을 기입해두었다.
-<img width="400" alt="4" src="https://user-images.githubusercontent.com/66242400/87753756-433fbe80-c83e-11ea-9d8e-4f77c1034a32.png">
+(4) 코드 분석을 위해 요구되는 것들, 가령 텐서의 크기, 등을 기입해두었다.<br><br>
+<img width="400" alt="4" src="https://user-images.githubusercontent.com/66242400/87753756-433fbe80-c83e-11ea-9d8e-4f77c1034a32.png"><br><br><br>
+
+**References**<br><br>
+https://cs231n.github.io/ <br>
+https://www.youtube.com/results?search_query=cs231n
