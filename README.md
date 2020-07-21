@@ -4,7 +4,7 @@
 ## **code style**<br>
 #### &nbsp;&nbsp;standard<br><br>
 ## **How to use**<br>
-#### &nbsp;&nbsp; 게시된 모든 자료는 학습용으로 사용하기에 적합하다.<br><br>
+#### &nbsp;&nbsp; 게시된 자료는 오직 학습용으로 사용하기에만 적합하다.<br><br>
 ## **Features/ screenshots**<br><br>
 
 #### (1)챕터명과 각 섹션마다 제공되는 설명을 번역해두었다.<br><br>
